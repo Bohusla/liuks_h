@@ -1,0 +1,144 @@
+   0 cd..
+   1 whoami
+   2 pwd
+   3 ls
+   4 cd hello.c
+   5 cd
+   6 cd ..
+   7 ls
+   8 cd home
+   9 ls
+  10 cd ..
+  11 cd etc
+  12 ls
+  13 cd ..
+  14 ls
+  15 cd
+  16 ls
+  17 ls --help
+  18 pwd --help
+  19 mk --help
+  20 ls -a
+  21 ls -1
+  22 ls -l
+  23 ls -la
+  24 cd ..
+  25 ls -la
+  26 cd /home
+  27 pwd
+  28 mkdir user1
+  29 pwd
+  30 ls
+  31 cd user1
+  32 mkdir task1
+  33 ls
+  34 cd task1
+  35 touch filel.txt
+  36 ls
+  37 cd ..
+  38 ls
+  39 tree
+  40 cd /
+  41 tree
+  42 history
+  43 cd /home/
+  44 tree
+  45 ls ==help
+  46 ls --help
+  47 ls -R
+  48 cd /
+  49 cd /home/user1/task1/
+  50 history
+  51 ls
+  52 tree
+  53 cd //
+  54 wpd
+  55 pwd
+  56 cd /
+  57 pwd
+  58 cd /home/user1 touch file2.txt
+  59 ls
+  60 tree
+  61 cd //
+  62 cd /home/user1/
+  63 tree
+  64 touch file2.txt
+  65 cd file2.txt
+  66 ls
+  67 cd task1/
+  68 ls
+  69 tree
+  70 cd ..
+  71 tree
+  72 mkdir task2
+  73 ls
+  74 cd task2
+  75 touch file2.txt
+  76 ls
+  77 tree
+  78 cd ..
+  79 tree
+  80 ls -a-l[s
+  81 ls -a -l
+  82 tree
+  83 cd /h
+  84 cd /home/
+  85 mkdir user2
+  86 ls
+  87 cd user2
+  88 mk dir task2
+  89 ls
+  90 mkdir task2
+  91 ls
+  92 cd task2/
+  93 touch file2.txt
+  94 ls
+  95 tree
+  96 tree /home/
+  97 cd
+  98 wpd
+  99 pwd
+ 100 mkdir /home mkdir user3
+ 101 mkdir /home/user3
+ 102 ls /home/
+ 103 pdw
+ 104 pwd
+ 105 mkdir /home/user3/task3
+ 106 ls /home/
+ 107 tree
+ 108 cd
+ 109 touch /home/user3/task3/file3.txt
+ 110 ls /home/
+ 111 tree /home/
+ 112 mkdir /home/user4/task4
+ 113 mkdir bm
+ 114 mkdir --help
+ 115 mkdir -p /home/user4/task4
+ 116 touch /home/user4/task4/files4.txt
+ 117 tree /home/
+ 118 mkdir -p /home/user5/task5/ && touch /home/user5/task5/file5.txt
+ 119 mkdir -p/home/user6/task6 touch file6.txt
+ 120 cd
+ 121 pwd
+ 122 ls
+ 123 ls /
+ 124 mkdir -p /tmp/1 /opt/2 /run/3
+ 125 tree
+ 126 cd /
+ 127 pwd
+ 128 cd root
+ 129 pwd
+ 130 tree
+ 131 cd run
+ 132 cd /run
+ 133 tree
+ 134 ls
+ 135 cd /home/
+ 136 tree
+ 137 mv /home/user1/file2.txt /home/user1/1
+ 138 tree
+ 139 rm -rf /home/user1
+ 140 history
+ 141 hist[ry > history.txt
+ 142 cd
+ 143 history > history.txt
